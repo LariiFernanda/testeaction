@@ -1,7 +1,7 @@
 name: Primeiro Projeto
 on: workflow_dispatch
 jobs:
-  firt-job: 
+  first-job: 
    runs-on: ubuntu-latest
    steps:
    - name: Print Hello World
